@@ -127,7 +127,6 @@ $("#toTop").click(function () {
 });
 
 $(".owl-carousel").owlCarousel({
-  lazyLoad: false,
   loop: true,
   margin: 10,
   nav: true,
